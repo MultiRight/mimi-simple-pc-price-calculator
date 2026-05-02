@@ -34,7 +34,7 @@ That's it.
 ```bash
 git clone https://github.com/detectiveRight/mimi-simple-pc-price-calculator.git
 cd mimi-simple-pc-price-calculator
-python project6_v5.py
+python python mimi-simple-pc-price-calculator.py
 ```
 
 ---
