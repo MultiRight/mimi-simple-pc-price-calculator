@@ -8,7 +8,7 @@
 
 You have a PC or laptop and want to know its **real market price** — but you don't want to manually describe every spec to an AI tool every single time.
 
-This tool asks you the right questions, then **generates a complete, ready-to-copy AI prompt** with all your hardware details so any AI (ChatGPT, Gemini, Claude, etc.) can give you an accurate price estimate for your country.
+This tool asks you the right questions, then **generates a complete, ready-to-copy AI prompt** with all your hardware details so any AI (ChatGPT, Gemini, Claude, lumo, etc.) can give you an accurate price estimate for your country.
 
 No API. No dependencies. Just Python.
 
@@ -34,7 +34,7 @@ That's it.
 ```bash
 git clone https://github.com/detectiveRight/mimi-simple-pc-price-calculator.git
 cd mimi-simple-pc-price-calculator
-python python mimi-simple-pc-price-calculator.py
+python mimi-simple-pc-price-calculator.py
 ```
 
 ---
@@ -79,6 +79,12 @@ Using this information, please provide me with the detailed and accurate market 
 ## 🌐 Supported Languages
 
 The output prompt supports **any language** — just type it when asked. The AI will respond in your preferred language.
+
+---
+
+## 🔒 Privacy Tip
+
+If you're concerned about sharing your hardware specs with big tech companies, consider using **[Lumo AI by Proton](https://lumo.proton.me/)** — a privacy-focused AI assistant from the makers of ProtonMail. Your data stays private and isn't used for training or shared with third parties.
 
 ---
 
