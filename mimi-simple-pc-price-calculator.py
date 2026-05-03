@@ -1,4 +1,4 @@
-#   mimi is nice cat 🐱
+#   mimi a is nice cat 🐱
 
 #   Welcome text /  نص ترحيبي
 
