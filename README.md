@@ -32,7 +32,7 @@ That's it.
 ### Run
 
 ```bash
-git clone https://github.com/detectiveRight/mimi-simple-pc-price-calculator.git
+git clone https://github.com/MultiRight/mimi-simple-pc-price-calculator.git
 cd mimi-simple-pc-price-calculator
 python mimi-simple-pc-price-calculator.py
 ```
@@ -97,7 +97,7 @@ This project is licensed under the **GNU General Public License v3.0** — see t
 ## 👤 Author
 
 **detectiveRight**
-- GitHub: [@detectiveRight](https://github.com/detectiveRight)
+- GitHub: [@MultiRight](https://github.com/MultiRight)
 
 ---
 
@@ -113,6 +113,6 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ## ©️ Copyright
 
-Copyright © 2026 detectiveRight <<https://github.com/detectiveRight/>>
+Copyright © 2026 MultiRight <<https://github.com/MultiRight/>>
 
 This project is open source under the GNU General Public License v3.0.
